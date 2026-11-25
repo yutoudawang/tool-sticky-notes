@@ -1,0 +1,21 @@
+# Build output
+bin/
+obj/
+.vs/
+node_modules/
+dist/
+build/
+__pycache__/
+*.pyc
+# Local configuration and credentials
+.env
+.env.*
+!.env.example
+*.user
+*.suo
+*.pfx
+*.p12
+*.key
+# Local machine files
+.DS_Store
+Thumbs.db
